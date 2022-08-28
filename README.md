@@ -3,6 +3,6 @@
 
  I built this project with JavaScript, HTML, and CSS using a plethora buttons to control the website's apperance. I did this to better fathom loops & arrays.
 
- View the live site [here](https://rileygcastle.github.io/ColorChanger/)
+ View the live site [here](https://rileygcastle.github.io/colorChanger/)
 
  To see more of my projects, check out [my GitHub profile](https://github.com/rileygcastle)
